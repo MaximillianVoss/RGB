@@ -1,0 +1,25 @@
+﻿  RGB.cpp
+c:\users\александр\source\repos\rgb\rgb\image.h(15): warning C4244: =: преобразование "double" в "BYTE", возможна потеря данных
+c:\users\александр\source\repos\rgb\rgb\image.h(16): warning C4244: =: преобразование "double" в "BYTE", возможна потеря данных
+c:\users\александр\source\repos\rgb\rgb\image.h(17): warning C4244: =: преобразование "double" в "BYTE", возможна потеря данных
+c:\users\александр\source\repos\rgb\rgb\image.h(20): warning C4267: =: преобразование из "size_t" в "BYTE"; возможна потеря данных
+c:\users\александр\source\repos\rgb\rgb\image.h(21): warning C4267: =: преобразование из "size_t" в "BYTE"; возможна потеря данных
+c:\users\александр\source\repos\rgb\rgb\image.h(22): warning C4267: =: преобразование из "size_t" в "BYTE"; возможна потеря данных
+c:\users\александр\source\repos\rgb\rgb\image.h(98): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(104): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(119): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(121): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(143): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(144): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(151): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(152): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(160): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(161): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(190): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(191): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\source\repos\rgb\rgb\image.h(71): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\александр\source\repos\rgb\rgb\image.h(70): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\александр\source\repos\rgb\rgb\image.h(189): note: выполняется компиляция ссылки на экземпляр шаблон функции "Matrix<double>::Matrix(size_t,size_t)"
+  c:\users\александр\source\repos\rgb\rgb\image.h(141): note: выполняется компиляция ссылки на экземпляр шаблон класс "Matrix<double>"
+c:\users\александр\source\repos\rgb\rgb\image.h(74): warning C4018: <: несоответствие типов со знаком и без знака
+  RGB.vcxproj -> C:\Users\Александр\source\repos\RGB\Debug\RGB.exe
