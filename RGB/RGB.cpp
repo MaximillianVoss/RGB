@@ -2,7 +2,7 @@
 #include "Image.h"
 
 Image image = Image("lena.bmp");
-
+//1111
 void f3() {
 	image.SaveRGB();
 }
